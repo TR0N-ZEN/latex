@@ -1,3 +1,5 @@
 *.pdf
 *.log
 *.aux
+!LaTeX.pdf
+!tex/The TEXbook.pdf
